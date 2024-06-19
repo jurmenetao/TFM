@@ -15,7 +15,8 @@ Este repositorio contiene las bases del código y los resultados del desarrollo 
 
 En el caso de estudio se han planteado dos estructurass distintas, que se han entrenado usando distintas configuraciones de parámetros. 
 <img src="[https://your-image-url.type](https://github.com/jurmenetao/TFM/assets/97030334/f9b8339e-8bef-4423-9127-40ce2716c1c1)" width="20" >
-![generador 1 drawio]( | width=20)
+
+
 ![generador 2 drawio](https://github.com/jurmenetao/TFM/assets/97030334/9d79980a-9fbd-4618-af1e-acf13ce79e3b)
 ![discriminador 1 drawio](https://github.com/jurmenetao/TFM/assets/97030334/25377d41-f0cc-4a3f-b522-428b0198221f)
 ![discriminador2 drawio](https://github.com/jurmenetao/TFM/assets/97030334/65ad68c7-da98-4fb9-98ef-8b6f39a51b78)
