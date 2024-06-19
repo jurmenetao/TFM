@@ -2,7 +2,9 @@
 
 Este repositorio contiene las bases del código y los resultados del desarrollo del caso de estudio para el trabajo final del Máster en Ciencia de Datos de la Universitat Oberta de Catalunya.
 
-https://github.com/jurmenetao/TFM/assets/97030334/d8ae7dcd-c5b5-48b2-9b86-eaa47dc6b467
+
+https://github.com/jurmenetao/TFM/assets/97030334/c952b3a7-b2b6-4ca8-9e1a-813486c4b582
+
 
 ## Contenidos del repositorio
 
