@@ -19,6 +19,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/c952b3a7-b2b6-4ca8-9e1a-813486
 ## Resultados
 
 
+
 ![image](https://github.com/jurmenetao/TFM/assets/97030334/ef99fe75-f06f-46a4-9d31-1db7fce5f063)
 
 ![image](https://github.com/jurmenetao/TFM/assets/97030334/5b9ba046-a082-4ca0-803e-367f53942993)
@@ -258,6 +259,8 @@ https://github.com/jurmenetao/TFM/assets/97030334/c952b3a7-b2b6-4ca8-9e1a-813486
 
 ## ID17
 
+
+## ID18
 
 
 
