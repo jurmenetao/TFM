@@ -2,11 +2,7 @@
 
 Este repositorio contiene las bases del código y los resultados del desarrollo del caso de estudio para el trabajo final del Máster en Ciencia de Datos de la Universitat Oberta de Catalunya.
 
-
-
-
-
-
+https://github.com/jurmenetao/TFM/assets/97030334/d8ae7dcd-c5b5-48b2-9b86-eaa47dc6b467
 
 ## Contenidos del repositorio
 
@@ -17,18 +13,13 @@ Este repositorio contiene las bases del código y los resultados del desarrollo 
 
 - main.ipynb: Ejemplo para el entrenamiento de una red adversarial.
 
-## Caso de estudio
-
-En el caso de estudio se han planteado dos estructurass distintas, que se han entrenado usando distintas configuraciones de parámetros. 
-<img src="[https://your-image-url.type](https://github.com/jurmenetao/TFM/assets/97030334/f9b8339e-8bef-4423-9127-40ce2716c1c1)" width="20" >
-
-
-![generador 2 drawio](https://github.com/jurmenetao/TFM/assets/97030334/9d79980a-9fbd-4618-af1e-acf13ce79e3b)
-![discriminador 1 drawio](https://github.com/jurmenetao/TFM/assets/97030334/25377d41-f0cc-4a3f-b522-428b0198221f)
-![discriminador2 drawio](https://github.com/jurmenetao/TFM/assets/97030334/65ad68c7-da98-4fb9-98ef-8b6f39a51b78)
-
 
 ## Resultados
+
+ID	training_time	batch_size	epochs	learning_rate	beta_1	GPU	Carpeta	fid
+20	5113.736313	64	15000	0.0001	0.5	NVIDIA L4	Resultados/Resultados reentrenados05-12_10-57	241.1502255
+21	7068.391832	128	15000	0.0005	0.5	NVIDIA L4	Resultados/Resultados reentrenados05-12_10-58	34.40070802
+![image](https://github.com/jurmenetao/TFM/assets/97030334/bceca8f0-973b-400f-b932-a633dd8cef2a)
 
 
 
