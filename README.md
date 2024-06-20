@@ -16,7 +16,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
     - discriminator.py: Script con la clase para generar discriminadores con distinto número de bloques convolucionales.
     - generator.py: Script con la clase para generar generadores con distinto número de bloques convolucionales.
     - gan.py: Script con la clase GAN, que se encarga de crear el marco adversarial entre generador y discriminador y entrenarlos, así como de generar la carpeta de resultados y guardar las imágenes.
-
+    - fid.py: Script con el conjunto de funciones para el cálculo del FID dado un modelo.
 - main.ipynb: Ejemplo para el entrenamiento de una red adversarial.
 
 
