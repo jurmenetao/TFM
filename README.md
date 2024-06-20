@@ -2,8 +2,8 @@
 
 Este repositorio contiene las bases del código y los resultados del desarrollo del caso de estudio para el trabajo final del Máster en Ciencia de Datos de la Universitat Oberta de Catalunya.
 
-
-https://github.com/jurmenetao/TFM/assets/97030334/c952b3a7-b2b6-4ca8-9e1a-813486c4b582
+<img width="425" alt="Resultados 1" src="https://github.com/jurmenetao/TFM/assets/97030334/2cb03813-3e86-44e9-bc2c-be804d6bf043">
+![Resultados2](https://github.com/jurmenetao/TFM/assets/97030334/82242993-867e-4bdb-9d5d-029e3efa7f16)
 
 
 ## Contenidos del repositorio
@@ -255,16 +255,77 @@ https://github.com/jurmenetao/TFM/assets/97030334/c952b3a7-b2b6-4ca8-9e1a-813486
 
 ## ID17
 
+![5](https://github.com/jurmenetao/TFM/assets/97030334/ec1b5515-fcc1-4f75-bf24-8ac9bfaaf794)
+![4](https://github.com/jurmenetao/TFM/assets/97030334/83fa27c1-f46c-4ba8-b810-4309d56afc06)
+![3](https://github.com/jurmenetao/TFM/assets/97030334/1ae70fa7-5ae4-474c-affc-2ffa1f39978a)
+![2](https://github.com/jurmenetao/TFM/assets/97030334/7f9890f6-56aa-45bc-8d88-ee196ae441d2)
+![1](https://github.com/jurmenetao/TFM/assets/97030334/1574ed92-9cde-4af5-ae70-2d76a9b25e59)
+![0](https://github.com/jurmenetao/TFM/assets/97030334/d9486f0b-2f4c-4274-85d0-8025371969aa)
+![10](https://github.com/jurmenetao/TFM/assets/97030334/86bcb997-759f-4622-a0be-95bb5bd696c5)
+![9](https://github.com/jurmenetao/TFM/assets/97030334/44927bbc-0a62-410c-a7b8-54eb071914d6)
+![8](https://github.com/jurmenetao/TFM/assets/97030334/e6fea982-cc41-468d-b9af-0ea4eb784afa)
+![7](https://github.com/jurmenetao/TFM/assets/97030334/c2340226-13ff-4d21-af43-42a9458904d4)
+![6](https://github.com/jurmenetao/TFM/assets/97030334/43fe6375-b311-4511-b77a-6f34cd5990fb)
 
 
 ## ID18
 
+![8](https://github.com/jurmenetao/TFM/assets/97030334/ba5604ab-b35e-466d-9e92-84b2b8c0481b)
+![7](https://github.com/jurmenetao/TFM/assets/97030334/4778580b-abfa-45ce-87b4-4e6bb990696e)
+![6](https://github.com/jurmenetao/TFM/assets/97030334/8862a8c7-8467-49d0-a786-762e28c0b4ca)
+![5](https://github.com/jurmenetao/TFM/assets/97030334/8722dbd3-ab10-4d49-8564-95f549a6175d)
+![4](https://github.com/jurmenetao/TFM/assets/97030334/a5dae6d2-a001-404c-be27-75d97ce6d306)
+![3](https://github.com/jurmenetao/TFM/assets/97030334/d596af35-ed93-4363-8054-1dd638c0c180)
+![9](https://github.com/jurmenetao/TFM/assets/97030334/adb034bf-a5af-46d8-a841-d00cc7bcb125)
+![2](https://github.com/jurmenetao/TFM/assets/97030334/997fa746-a60f-4fb7-ba15-abab7dc827a8)
+![1](https://github.com/jurmenetao/TFM/assets/97030334/ae5a041f-481b-4958-9420-9480594f69bf)
+![0](https://github.com/jurmenetao/TFM/assets/97030334/537c2e76-8314-4afa-bdcc-f2fc903f70e6)
+![10](https://github.com/jurmenetao/TFM/assets/97030334/8ea40a22-a11d-4a3e-bb97-6af19ef13220)
+
+## ID19
+
+![8](https://github.com/jurmenetao/TFM/assets/97030334/01d4e5a2-593d-40b5-8fd2-c8e852cfc84b)
+![7](https://github.com/jurmenetao/TFM/assets/97030334/f314ffdc-6df6-4a67-bbee-d81921e4b382)
+![6](https://github.com/jurmenetao/TFM/assets/97030334/511978af-c4bb-4443-aa9d-546494653898)
+![5](https://github.com/jurmenetao/TFM/assets/97030334/fb24249c-035e-4b0c-a146-c06eb5113a36)
+![4](https://github.com/jurmenetao/TFM/assets/97030334/02dbbb59-d123-4855-827f-ca08a643a186)
+![3](https://github.com/jurmenetao/TFM/assets/97030334/874deaa8-791d-43d0-a16a-6b1a184a6843)
+![2](https://github.com/jurmenetao/TFM/assets/97030334/1d3509a8-6f8a-4601-979c-77835e462fdf)
+![1](https://github.com/jurmenetao/TFM/assets/97030334/2d374da6-e7a8-4cad-8837-e057d1260e33)
+![0](https://github.com/jurmenetao/TFM/assets/97030334/2b78a76a-52d5-45ff-a3ce-11ce8a7a3419)
+![10](https://github.com/jurmenetao/TFM/assets/97030334/d33f5e01-5cd1-4d25-94dd-f4307a94db1f)
+![9](https://github.com/jurmenetao/TFM/assets/97030334/114456ac-1a1b-42aa-b353-ca3dd569d183)
 
 
+## ID20
+
+![5](https://github.com/jurmenetao/TFM/assets/97030334/4e1bf444-feb3-426b-a73b-3842e4162911)
+![4](https://github.com/jurmenetao/TFM/assets/97030334/c41299d2-0ab0-4a0a-9d99-a74053bbbb4b)
+![3](https://github.com/jurmenetao/TFM/assets/97030334/6b87150c-ac3e-444c-ab4d-73713d4cf0fc)
+![2](https://github.com/jurmenetao/TFM/assets/97030334/e8212f48-2d61-42c6-8746-0073a94d24e4)
+![1](https://github.com/jurmenetao/TFM/assets/97030334/b85cf687-f8e2-4d83-bacd-eed0e337b7be)
+![0](https://github.com/jurmenetao/TFM/assets/97030334/20fbd8dd-71ed-474a-8f49-e3ab0e3b9e0f)
+![10](https://github.com/jurmenetao/TFM/assets/97030334/897a5566-4afa-4aca-84c6-5d82ea4bcf84)
+![9](https://github.com/jurmenetao/TFM/assets/97030334/5c0641ed-815c-494b-9499-3f0d7d55ebdf)
+![8](https://github.com/jurmenetao/TFM/assets/97030334/3f58685c-8a5e-497a-82f5-258f12154992)
+![7](https://github.com/jurmenetao/TFM/assets/97030334/a83694b5-47eb-4723-ae37-4c1d89d0ed8e)
+![6](https://github.com/jurmenetao/TFM/assets/97030334/46e99747-278e-48c4-b1f3-083c6c8b7db1)
 
 
+## ID21
 
 
+![9](https://github.com/jurmenetao/TFM/assets/97030334/72476dcf-54bb-4c57-a99d-b4bf870ac267)
+![8](https://github.com/jurmenetao/TFM/assets/97030334/f1c8cd57-a0bf-46ba-9db0-56283e66225e)
+![7](https://github.com/jurmenetao/TFM/assets/97030334/aa5aae8d-23ed-4b6a-bf97-43458c6713bd)
+![6](https://github.com/jurmenetao/TFM/assets/97030334/973ac1cb-4bad-4367-90ed-7a845acedd3d)
+![5](https://github.com/jurmenetao/TFM/assets/97030334/c88d24dc-e3e9-4e7a-adcb-1602ecc624ef)
+![4](https://github.com/jurmenetao/TFM/assets/97030334/48c3339d-3332-40a8-b690-d40a3d164e06)
+![3](https://github.com/jurmenetao/TFM/assets/97030334/343ffffc-b9e9-449d-8a30-9334d869b7e6)
+![2](https://github.com/jurmenetao/TFM/assets/97030334/13834777-1f76-4916-8570-0dfba6709798)
+![0](https://github.com/jurmenetao/TFM/assets/97030334/4df18a2c-71a0-429a-96ad-2a7a86863623)
+![13](https://github.com/jurmenetao/TFM/assets/97030334/cb3fec5f-4693-4941-bfde-b4ab9001cef6)
+![10](https://github.com/jurmenetao/TFM/assets/97030334/d03f1440-d7ff-49ab-8577-d42407f15a37)
 
 
 
