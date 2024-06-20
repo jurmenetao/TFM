@@ -22,6 +22,10 @@ import pandas as pd
 class GAN:
 
   def __init__(self, generator, discriminator, path_resultados, data_source = "Datos/data_npz_64x64_compressed_todas/todas.npz", epochs = 100, latent_dim = 100, sample_interval = 5, batch_size = 128, learning_rate=0.0002, beta_1=0.5):
+    """
+    Esta clase permite construir la estructura de la red adversarial y entrenarla. 
+    """
+    
     self.data = np.load(data_source)
     self.data = self.data["img"]
     self.num_imagenes = len(self.data)
@@ -50,6 +54,9 @@ class GAN:
     self.verificar_y_crear_carpeta()
 
   def build_gan(self):
+    """
+    Construye la estructura de la red adversarial.
+    """
     model = Sequential()
     model.add(self.generator)
     self.discriminator.trainable = False
@@ -75,6 +82,9 @@ class GAN:
 
 
   def sample_images(self, epoch, save_models = False):
+      """
+      Genera una figura con resultados de imágenes generadas por la red en el paso actual.
+      """
       r, c = 2, 5
       noise = np.random.normal(0, 1, (r * c, 100))
       #sampled_labels = np.arange(0, 10)#.reshape(-1, 1)
@@ -99,9 +109,15 @@ class GAN:
         self.discriminator.save(self.path_resultados + "/discriminator_"+str(epoch)+".h5")
 
   def sample_real_images(self):
+    """
+    Realiza un muestreo y devuelve un conjunto de imágenes reales.
+    """
     return self.data[random.sample(range(self.num_imagenes), self.batch_size),:,:,:]
 
   def train(self, save_models = False, save_model_interval = 100):
+    """
+    Ejecuta el proceso de entrenamiento de la red adversarial.
+    """
     start_time = time.time()
     try:
       real_labels = np.zeros([self.batch_size, 1])
@@ -149,6 +165,10 @@ class GAN:
 
 
   def finish_training(self, epoch):
+    """
+    Guarda los datos del entrenamiento al finalizar el entrenamiento.
+    """
+
     evolution = pd.DataFrame(self.evolution)
     evolution.columns = ["d_loss_real", "d_loss_fake", "d_acc_reals", "d_acc_fakes", "g_loss", "g_acc"]
 

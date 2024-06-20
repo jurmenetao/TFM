@@ -17,6 +17,10 @@ import os
 
 
 def generate_images(carpeta, noise = np.random.normal(0, 1, (10000, 100))):
+  """
+  Recupera o genera conjuntos de imágenes para la evaluación cuantitativa.
+  """
+
   if not os.path.exists("Resultados/"+carpeta +"/imagenes FID.npz"):
       try:
           # os.makedirs("Resultados/"+carpeta +"/imagenes FID")
@@ -47,6 +51,9 @@ def generate_images(carpeta, noise = np.random.normal(0, 1, (10000, 100))):
 
 
 def scale_images(images, new_shape):
+ """
+ Escala las imágenes para adecuarlas al tamaño de entrada del modelo Inception V3. 
+ """
  images_list = list()
  for image in images:
     # resize with nearest neighbor interpolation
@@ -57,6 +64,9 @@ def scale_images(images, new_shape):
 
 
 def sample_real_images(data, sample_n=10000):
+  """
+  Realiza un muestreo de imágenes reales.
+  """
   return data[random.sample(range(len(data)), sample_n),:,:,:]
 
 
@@ -65,6 +75,9 @@ def sample_real_images(data, sample_n=10000):
 # https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/
 # calculate frechet inception distance
 def calculate_fid(model, images1, images2):
+ """
+ Calcula el valor del FID, dados los conjuntos de imágenes y el modelo Inception-V3.
+ """
  # calculate activations
  act1 = model.predict(images1)
  act2 = model.predict(images2)

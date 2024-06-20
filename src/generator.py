@@ -18,6 +18,9 @@ import pandas as pd
 
 
 class generator:
+  """
+  Esta clase permite construir el generador de manera simple.
+  """
   def __init__(self, dropout = 0.4, depth = 256, latent_dim = 100, additional_blocks = 1, channels = 3, image_size = 64):
     self.dropout = dropout
     self.depth = depth
@@ -29,7 +32,9 @@ class generator:
 
 
   def build_model(self):
-
+    """
+    Construye el generador a partir de los parámetros especificados.
+    """
     gen_input = Input(shape = (self.latent_dim))
     gen = Dense(self.dim*self.dim*self.depth)(gen_input)
     gen = LeakyReLU(alpha=0.2)(gen)

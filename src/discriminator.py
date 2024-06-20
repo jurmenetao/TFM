@@ -19,6 +19,10 @@ import pandas as pd
 
 class discriminator:
   def __init__(self, depth = 32, dropout = 0.4, img_rows = 64, img_cols = 64, img_channels =3, additional_layers= 3):
+      """
+      Esta clase permite construir discriminadores de manera simple.
+      """
+
       self.depth = depth
       self.dropout = dropout
       self.input_shape = (img_rows, img_cols, img_channels)
@@ -27,7 +31,10 @@ class discriminator:
 
 
   def build_discriminator(self):
-
+      """
+      Construye el discriminador de acuerdo con las características especificadas.
+      """
+      
       dis_input = Input(shape = self.input_shape)
 
       dis = Conv2D(self.depth, 5, strides=2, padding='same')(dis_input)
