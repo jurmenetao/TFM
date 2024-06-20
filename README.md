@@ -22,9 +22,9 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 
 ## Resultados
 
-<img width="425" alt="Resultados 1" src="https://github.com/jurmenetao/TFM/assets/97030334/fc5d042f-3c21-4d69-a5f2-c6d451beea1d">
+<img width="600" alt="Resultados 1" src="https://github.com/jurmenetao/TFM/assets/97030334/fc5d042f-3c21-4d69-a5f2-c6d451beea1d">
 
-<img width="425" alt="Resultados 2" src="https://github.com/jurmenetao/TFM/assets/97030334/cf824612-266a-4b4e-979b-fa15839a85d1">
+<img width="600" alt="Resultados 2" src="https://github.com/jurmenetao/TFM/assets/97030334/cf824612-266a-4b4e-979b-fa15839a85d1">
 
 
 ### ID1
