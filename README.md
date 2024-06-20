@@ -20,11 +20,11 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 - main.ipynb: Ejemplo para el entrenamiento de una red adversarial.
 
 
-## Resultados
+## Fase exploratoria
 
 <img width="600" alt="Resultados 1" src="https://github.com/jurmenetao/TFM/assets/97030334/fc5d042f-3c21-4d69-a5f2-c6d451beea1d">
 
-<img width="600" alt="Resultados 2" src="https://github.com/jurmenetao/TFM/assets/97030334/cf824612-266a-4b4e-979b-fa15839a85d1">
+
 
 
 ### ID1
@@ -41,7 +41,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![2](https://github.com/jurmenetao/TFM/assets/97030334/323cb3d6-32bc-4085-b5a8-640363a0f740)
 ![1](https://github.com/jurmenetao/TFM/assets/97030334/92029202-79bf-47b5-a281-6f21125a2f92)
 
-## ID2 
+### ID2 
 
 ![10](https://github.com/jurmenetao/TFM/assets/97030334/72edbdf2-4091-4d62-b760-246e5be00e9c)
 ![9](https://github.com/jurmenetao/TFM/assets/97030334/8ccdf5df-479d-44b7-80de-4f3715a0775d)
@@ -55,7 +55,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![1](https://github.com/jurmenetao/TFM/assets/97030334/c9a5c56e-470a-4c41-ad24-8632d38039cd)
 ![0](https://github.com/jurmenetao/TFM/assets/97030334/efe54878-5f5e-47ae-8bb6-fb15470b487f)
 
-## ID3 
+### ID3 
 
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/b1706c0a-2743-44f8-8059-af07b9b2d891)
 ![4](https://github.com/jurmenetao/TFM/assets/97030334/eb945da1-3ca5-41b2-9d2d-3fa0e4cc4f8b)
@@ -69,7 +69,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/c20c6443-b9f0-44cc-8ae0-3c5fbe1a7522)
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/62cc6809-022f-4558-b725-5dffe49ea09a)
 
-## ID4
+### ID4
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/d2bde527-4921-4210-be71-8c3622ad6955)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/28ddded2-78f6-4c78-86a4-c7c5740cf2f4)
@@ -84,7 +84,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/d6a0d0bd-a8d9-44a7-bbed-148cf951b706)
 
 
-## ID5
+### ID5
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/ae606197-9c5d-4a7a-a92e-726ba1459df1)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/a62c5b85-681b-4d6a-9503-236f59d634c2)
@@ -98,7 +98,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![8](https://github.com/jurmenetao/TFM/assets/97030334/15f091b2-55b7-4513-84ff-fef5ec1634a3)
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/0e4737ec-403d-4dd7-a5f1-8c7e5028e9c5)
 
-## ID6
+### ID6
 
 ![0](https://github.com/jurmenetao/TFM/assets/97030334/d11d084c-227b-4b0a-911b-8c523d16b654)
 ![10](https://github.com/jurmenetao/TFM/assets/97030334/36359b78-ac8d-421d-8d4d-db134e3fc0ef)
@@ -112,7 +112,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![2](https://github.com/jurmenetao/TFM/assets/97030334/d80376ca-1e8d-4a73-a823-4422a204b90d)
 ![1](https://github.com/jurmenetao/TFM/assets/97030334/156b3deb-34d2-4577-9e1b-5c207aa6d4cf)
 
-## ID7
+### ID7
 
 ![1](https://github.com/jurmenetao/TFM/assets/97030334/754be652-e1b8-491d-b045-7aefb61372ec)
 ![0](https://github.com/jurmenetao/TFM/assets/97030334/4046930b-2de7-4b46-b27d-b6136c591eaa)
@@ -127,7 +127,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![2](https://github.com/jurmenetao/TFM/assets/97030334/f86a9488-b5fb-44dc-a9a4-298632a374f1)
 
 
-## ID 8
+### ID 8
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/28cdeb3f-acb8-472b-b3a1-fafd853a0a0b)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/a320b7e7-a3a9-40a4-bdb6-6014d0eacb2d)
@@ -142,7 +142,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/d1cdf6e8-8451-465e-93dd-97fdff9523e0)
 
 
-## ID9
+### ID9
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/09cf4ba7-3537-45b5-811c-84cbc316a63b)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/574db5cc-8020-4cae-aceb-23e441497147)
@@ -157,7 +157,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/8b7653f1-2d2b-458b-9171-569612c39596)
 
 
-## ID10
+### ID10
 
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/0815372f-09cd-4a19-9232-3f861be88cd7)
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/937a59e0-3185-4f24-acdf-9212f2ce72fa)
@@ -172,7 +172,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![8](https://github.com/jurmenetao/TFM/assets/97030334/2fc8abf8-066b-4f10-943a-29814a49ea01)
 
 
-## ID11
+### ID11
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/6095ca91-c238-492d-9e24-7d98a95ea075)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/7cb9631c-dae7-43ea-9f19-015cdf383264)
@@ -186,7 +186,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![8](https://github.com/jurmenetao/TFM/assets/97030334/8bbf3344-88ff-4f09-94bc-3113315e0e3c)
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/f0338386-cc88-4f7d-a2b9-3a8fa7f9f107)
 
-## ID12
+### ID12
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/18d6aa39-d946-4f50-84e8-0c484f01873b)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/f092b833-b032-4752-aa7c-fb270738d0ba)
@@ -200,7 +200,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![8](https://github.com/jurmenetao/TFM/assets/97030334/a9f57c0b-49e1-4542-bcc8-a576fe8cc1d9)
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/a17ed7df-24c0-44ac-bd50-7e60182268b0)
 
-## ID13
+### ID13
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/eccb0963-0bd1-44fc-a083-04d47af13f3f)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/6de1ac60-50eb-4c49-9582-b45cfe2b8039)
@@ -215,7 +215,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/eecf3a05-7f97-436e-88cc-46bac7f67572)
 
 
-## ID14
+### ID14
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/b2c823c5-9120-47d0-b98e-034a1b417703)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/36579e78-723b-4ed5-aa99-eae1c36f7736)
@@ -230,7 +230,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/d15dbd1b-fe9f-4c85-b472-0d0b03769067)
 
 
-## ID 15
+### ID 15
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/6fff4363-141c-40dc-bfc0-01c320517620)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/4f3d5fad-93c9-4b10-93cd-49afacfa48d4)
@@ -245,7 +245,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/48e6280d-c49e-4963-ad6b-1fbeac39203e)
 
 
-## ID16
+### ID16
 
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/211f7a73-f895-48c1-b15d-48067216d1e7)
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/06590fa7-da3d-476d-9d90-a7b34c550068)
@@ -260,7 +260,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/de34712e-f0d0-4618-b4f8-e95afe38843e)
 
 
-## ID17
+### ID17
 
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/ec1b5515-fcc1-4f75-bf24-8ac9bfaaf794)
 ![4](https://github.com/jurmenetao/TFM/assets/97030334/83fa27c1-f46c-4ba8-b810-4309d56afc06)
@@ -275,7 +275,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/43fe6375-b311-4511-b77a-6f34cd5990fb)
 
 
-## ID18
+### ID18
 
 ![8](https://github.com/jurmenetao/TFM/assets/97030334/ba5604ab-b35e-466d-9e92-84b2b8c0481b)
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/4778580b-abfa-45ce-87b4-4e6bb990696e)
@@ -289,7 +289,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![0](https://github.com/jurmenetao/TFM/assets/97030334/537c2e76-8314-4afa-bdcc-f2fc903f70e6)
 ![10](https://github.com/jurmenetao/TFM/assets/97030334/8ea40a22-a11d-4a3e-bb97-6af19ef13220)
 
-## ID19
+### ID19
 
 ![8](https://github.com/jurmenetao/TFM/assets/97030334/01d4e5a2-593d-40b5-8fd2-c8e852cfc84b)
 ![7](https://github.com/jurmenetao/TFM/assets/97030334/f314ffdc-6df6-4a67-bbee-d81921e4b382)
@@ -304,7 +304,11 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![9](https://github.com/jurmenetao/TFM/assets/97030334/114456ac-1a1b-42aa-b353-ca3dd569d183)
 
 
-## ID20
+## Resultados
+
+<img width="600" alt="Resultados 2" src="https://github.com/jurmenetao/TFM/assets/97030334/cf824612-266a-4b4e-979b-fa15839a85d1">
+
+### ID20
 
 ![5](https://github.com/jurmenetao/TFM/assets/97030334/4e1bf444-feb3-426b-a73b-3842e4162911)
 ![4](https://github.com/jurmenetao/TFM/assets/97030334/c41299d2-0ab0-4a0a-9d99-a74053bbbb4b)
@@ -319,7 +323,7 @@ https://github.com/jurmenetao/TFM/assets/97030334/77ea4e17-d802-45a4-a494-fcf700
 ![6](https://github.com/jurmenetao/TFM/assets/97030334/46e99747-278e-48c4-b1f3-083c6c8b7db1)
 
 
-## ID21
+### ID21
 
 
 ![9](https://github.com/jurmenetao/TFM/assets/97030334/72476dcf-54bb-4c57-a99d-b4bf870ac267)
